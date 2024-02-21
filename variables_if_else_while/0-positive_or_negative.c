@@ -6,10 +6,9 @@
 * Return: Always 0
 */
 int main(){
-	srand(time(NULL));
-	int n = rand();
-
-	printf("Le nombre %d est ", n);
+	srand(time(0));
+	int n = rand() - RAND_MAX / 2;
+	
 	if (n > 0)
 		printf("positif\n");
 	else if (n == 0)

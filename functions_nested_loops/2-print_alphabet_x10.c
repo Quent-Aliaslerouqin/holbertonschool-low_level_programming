@@ -1,7 +1,7 @@
 #include "main.h"
 #include <unistd.h>
 /**
-*  print_alphabet - Print putchar, followed by a new line.
+* print_alphabet_x10 - Print putchar, followed by a new line.
 *
 *Return: Always 0.
 */

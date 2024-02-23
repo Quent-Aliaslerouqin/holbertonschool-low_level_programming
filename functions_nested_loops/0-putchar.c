@@ -1,11 +1,10 @@
 #include "main.h"
-#include <stdio.h>
-/**
-* main - code to put a message
-* Return: Always 0
-*/
-int main(void)
 
+/**
+*  main - Print putchar, followed by a new line.
+*
+*Return: Always 0.
+*/
 int main(void)
 {
 	_putchar('_');

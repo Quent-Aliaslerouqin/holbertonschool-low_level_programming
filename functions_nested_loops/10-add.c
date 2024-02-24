@@ -1,15 +1,13 @@
-#include <stdio.h>
-/**
- * main - check the code for Holberton School students.
- *
- * Return: Always 0.
- */
-int main(void)
-int add
-{
-	int n;
+#include "main.h"
 
-	n = add(89, 9);
-	printf("%d\n", n);
-	return (0);
+/**
+  * add - Adds two values
+  * @n1: The first number to be computed
+  * @n2: The second number to be computed
+  *
+  * Return: Integer value
+  */
+int add(int n1, int n2)
+{
+	return (n1 + n2);
 }

@@ -2,8 +2,7 @@
 
 /**
 * print_diagonal- a
-* @h: a
-* @i: a
+* @n: a
 * Return: a
 */
 void print_diagonal(int n)

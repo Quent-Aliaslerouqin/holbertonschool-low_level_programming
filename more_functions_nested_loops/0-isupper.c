@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include "main.h"
+#include <ctype.h>
 /**
+* isupper - hrt
 * main - entry point 
 * Return : 0
 **/
